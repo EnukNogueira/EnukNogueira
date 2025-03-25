@@ -4,7 +4,7 @@
 
 Meu nome é Enuk dos Santos Alves Nogueira, tenho 23 anos e sou natural de São Paulo.
 
-**Formação**
+**Formação:**
 
 Ensino Médio: Concluído no CSG, com curso técnico em Informática.
 
