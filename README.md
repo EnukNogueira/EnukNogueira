@@ -118,8 +118,6 @@ Tenho uma base sólida tanto em áreas de tecnologia quanto em gestão, o que me
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-/>
-
 
 <br/>
 <br/>
@@ -138,7 +136,7 @@ Tenho uma base sólida tanto em áreas de tecnologia quanto em gestão, o que me
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
