@@ -5,9 +5,11 @@
 Meu nome é Enuk dos Santos Alves Nogueira, tenho 23 anos e sou natural de São Paulo.
 
 **Formação**
+
 Ensino Médio: Concluído no CSG, com curso técnico em Informática.
 
-Graduação: Atualmente cursando Engenharia de Software na Universidade Cruzeiro do Sul.
+**Graduação:** 
+Atualmente cursando Engenharia de Software na Universidade Cruzeiro do Sul.
 
 **Cursos Técnicos:**
 
@@ -17,7 +19,7 @@ Logística
 
 Eletricista de Manutenção Eletroeletrônica
 
-Tenho uma base sólida tanto em áreas de tecnologia quanto em gestão, o que me permite ter uma visão multidisciplinar e flexível nos meus projetos..
+Tenho uma base sólida tanto em áreas de tecnologia quanto em gestão, o que me permite ter uma visão multidisciplinar e flexível nos meus projetos
 
 ---
 
