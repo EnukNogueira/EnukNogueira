@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Enuk Nogueira
+# 💻 Enuk Nogueira
 
 **`Desenvolvedor FullStack`**
 
@@ -21,7 +21,7 @@ Tenho uma base sólida tanto em áreas de tecnologia quanto em gestão, o que me
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤓 Linguagens e Tecnologias
 
 <img 
     align="left" 
