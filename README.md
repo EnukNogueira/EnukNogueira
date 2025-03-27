@@ -140,7 +140,7 @@ Tenho uma base sólida tanto em áreas de tecnologia quanto em gestão, o que me
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="151" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
