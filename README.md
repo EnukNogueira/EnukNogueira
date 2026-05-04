@@ -1,4 +1,4 @@
-# Olá, eu sou o Enuk! 
+# Bem vindo, eu sou o Enuk dos Santos Alves Nogueira! 
 
 Sou graduando em **Análise e Desenvolvimento de Sistemas pela PUCPR** e estou em transição da área técnica industrial para o ecossistema de **Dados e Inteligência Artificial**.
 
