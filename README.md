@@ -17,7 +17,7 @@ Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de
 * **Linguagens:** Python, SQL, Java.
 * **Dados:** Pandas, NumPy, MySQL, PostgreSQL.
 * **Nuvem:** Azure (AZ-900) e AWS (Cloud Practitioner).
-* **Infraestrutura & Security:** Docker, Git, Wazuh e ambientes Linux.
+* **Infraestrutura & Security:** Docker, Git e Wazuh.
 
 ---
 
