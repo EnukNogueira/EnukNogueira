@@ -12,7 +12,7 @@ Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de
 * **Desenvolvimento Backend:** Criação de sistemas robustos e seguros com **Java** e **Python**.
 * **Automação Inteligente:** Scripts para coleta de dados (Web Scraping) e orquestração de APIs.
 
-###  Toolbox Técnica:
+###  Ferramentas:
 * **IA & Machine Learning:** Scikit-Learn, PyTorch, LangChain e OpenAI API.
 * **Linguagens:** Python, SQL, Java.
 * **Dados:** Pandas, NumPy, MySQL, PostgreSQL.
