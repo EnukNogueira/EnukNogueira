@@ -17,9 +17,15 @@ Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de
 * **Linguagens:** Python, SQL, Java.
 * **Dados:** Pandas, NumPy, MySQL, PostgreSQL.
 * **Nuvem:** Azure (AZ-900) e AWS (Cloud Practitioner).
-* **Infraestrutura & Security:** Docker, Git e Wazuh.
+* **Infraestrutura & Security:** Docker e Git.
 
 ---
 
 ###  Meu Foco Atual:
-Evoluir na trilha de **Engenharia de Dados e IA** para desenvolver projetos que não apenas automatizem, mas tragam inteligência estratégica para o núcleo dos negócios.
+* Evoluir na trilha de **Engenharia de Dados e IA** para desenvolver projetos que não apenas automatizem, mas tragam inteligência estratégica para o núcleo dos negócios.
+* Realizar as Carreias **Engenharia de Dados e Engenharia de Agentes de IA da Alura**
+* Conquistar o certificado de AWS (Amazon Web Services)
+* Conquistar o certificado de Azure (Microsoft)
+* Evolução dos meu projetos/estudos ao longo do ano
+* Constancia no GitHub.
+
