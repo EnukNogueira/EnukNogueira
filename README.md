@@ -6,13 +6,21 @@ Minha base tecnológica foi consolidada no **SENAI-SP**, onde me formei como **E
 
 Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de consolidar minha inserção definitiva no mercado de TI até o final de 2026.
 
-###  No que atuo:
+### GitHub Metrics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake.svg">
+</picture>
+
+### No que atuo:
 * **Inteligência Artificial:** Desenvolvimento de modelos preditivos e integração de modelos de linguagem (LLMs) utilizando **Python**.
 * **Engenharia de Dados:** Arquitetura de bancos de dados **SQL** e pipelines de dados com **Pandas** e **NumPy**.
 * **Desenvolvimento Backend:** Criação de sistemas robustos e seguros com **Java** e **Python**.
 * **Automação Inteligente:** Scripts para coleta de dados (Web Scraping) e orquestração de APIs.
 
-###  Ferramentas:
+### Ferramentas:
 * **IA & Machine Learning:** Scikit-Learn, PyTorch, LangChain e OpenAI API.
 * **Linguagens:** Python, SQL, Java.
 * **Dados:** Pandas, NumPy, MySQL, PostgreSQL.
@@ -21,11 +29,10 @@ Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de
 
 ---
 
-###  Meu Foco Atual:
+### Meu Foco Atual:
 * Evoluir na trilha de **Engenharia de Dados e IA** para desenvolver projetos que não apenas automatizem, mas tragam inteligência estratégica para o núcleo dos negócios.
-* Realizar as Carreias **Engenharia de Dados e Engenharia de Agentes de IA da Alura**
+* Realizar as Carreiras **Engenharia de Dados e Engenharia de Agentes de IA da Alura**
 * Conquistar o certificado de AWS (Amazon Web Services)
 * Conquistar o certificado de Azure (Microsoft)
 * Evolução dos meu projetos/estudos ao longo do ano
 * Constancia no GitHub.
-
