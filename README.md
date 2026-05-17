@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=331A00&height=120&section=header" width="100%" alt="Header Banner" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=70&lines=Bem+vindo+ao+meu+GitHub!" alt="Título Animado" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=70&lines=Oi+eu+sou+o+Enuk!" alt="Título Animado" />
 </h1>
 
-## Technical Profile
+## About
 
 * Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR
 * Formação Técnica em Manutenção Eletroeletrônica pelo SENAI-SP
