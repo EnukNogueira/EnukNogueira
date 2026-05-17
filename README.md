@@ -5,7 +5,6 @@
 </h1>
 
 ## About
-
 * Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR
 * Formação Técnica em Manutenção Eletroeletrônica pelo SENAI-SP
 
@@ -17,8 +16,7 @@ O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramenta
 
 Sempre em busca de evolução e novos conhecimentos.
 
-## Strategic Roadmap
-
+## Objectives
 * **Especialização em Dados & IA:** Conclusão das trilhas de Engenharia de Dados e Engenharia de Agentes de IA pela Alura para o desenvolvimento de pipelines otimizados.
 * **Validação de Competências:** Conquista das certificações AWS Cloud Practitioner e Microsoft Azure Fundamentos (AZ-900) para validar o conhecimento em arquitetura baseada em nuvem.
 * **Consistência e Prática:** Construção de um portfólio prático estruturado focado no tratamento de dados reais, versionamento sistemático e engenharia reversa de processos obsoletos.
