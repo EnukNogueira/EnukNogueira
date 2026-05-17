@@ -1,25 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=331A00&height=120&section=header" width="100%" alt="Header Banner" />
+# Enuk Nogueira
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=70&lines=Oi+eu+sou+o+Enuk!" alt="Título Animado" />
-</h1>
+Desenvolvedor Backend especializado em Engenharia de Dados e Soluções de Inteligência Artificial. Com sólido background em automação eletroeletrônica industrial, aplico lógica estruturada rigorosa, diagnóstico de falhas em tempo real e arquitetura de sistemas resilientes para construir pipelines de dados eficientes e aplicações backend escaláveis.
 
-## About
-* Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR
-* Formação Técnica em Manutenção Eletroeletrônica pelo SENAI-SP
+## Competências Técnicas
 
-Desenvolvo soluções com foco em Engenharia de Dados, Inteligência Artificial e Desenvolvimento Backend. Minha transição da área técnica industrial para o ecossistema de software baseia-se na aplicação prática de competências analíticas complexas.
+### Desenvolvimento Backend & Engenharia de Software
+- Java: Programação Orientada a Objetos (POO), estruturas de dados e tratamento de exceções.
+- Python: Automação de processos, desenvolvimento de scripts e manipulação de dados.
+- Arquitetura: Clean Code, versionamento estruturado com Git e tratamento de logs.
 
-A bagagem adquirida na manutenção eletroeletrônica industrial me proporcionou um domínio sólido sobre lógica estruturada, diagnóstico de falhas em tempo real e resiliência operacional diante de falhas críticas. Hoje, traduzo essa experiência técnica em infraestrutura para a construção de linhas de processamento de dados (pipelines), automações inteligentes e códigos limpos em ambientes de backend.
+### Engenharia de Dados & IA
+- Bancos de Dados: Modelagem relacional e manipulação de dados com SQL.
+- Inteligência Artificial: Desenvolvimento de automações inteligentes e integração de APIs de LLMs.
 
-O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramentas modernas de processamento de dados e nuvem, consolidando projetos escaláveis de ponta a ponta.
+## Projetos de Destaque
 
-Sempre em busca de evolução e novos conhecimentos.
+### Sistema de Gerenciamento de Estoque Corporativo
+- Link: https://github.com/EnukNogueira/seu-repositorio-java
+- Impacto Técnico: Backend robusto desenvolvido em Java utilizando conceitos avançados de Orientação a Objetos para garantir a manutenibilidade do código. Implementação de tratamento centralizado de erros e regras de negócio complexas para controle de inventário.
 
-## Objectives
-* **Especialização em Dados & IA:** Conclusão das trilhas de Engenharia de Dados e Engenharia de Agentes de IA pela Alura para o desenvolvimento de pipelines otimizados.
-* **Validação de Competências:** Conquista das certificações AWS Cloud Practitioner e Microsoft Azure Fundamentos (AZ-900) para validar o conhecimento em arquitetura baseada em nuvem.
-* **Consistência e Prática:** Construção de um portfólio prático estruturado focado no tratamento de dados reais, versionamento sistemático e engenharia reversa de processos obsoletos.
+### Automatizador Inteligente de Consultas e Cotações
+- Link: https://github.com/EnukNogueira/seu-repositorio-python
+- Impacto Técnico: Pipeline construído em Python focado na extração automatizada de dados operacionais e financeiros em tempo real. Integração com APIs externas e estruturação de dados não formatados para consumo analítico imediato.
 
+## Contato e Conexões
 
-
+- LinkedIn: https://www.linkedin.com/in/enuk-nogueira
+- E-mail: enuk.alves@outlook.com
