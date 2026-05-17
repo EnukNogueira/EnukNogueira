@@ -1,9 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%" alt="Banner">
+<br>
 
-<h1 align="center">Welcome to my GitHub!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=typing&content=Bem+vindo+ao+meu+GitHub&size=26&color=dcdcdc&height=70&width=600&font=CourierNew" alt="Título Animado">
+</p>
 <br>
 
 ## Technical Profile
+
 * Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR
 * Formação Técnica em Manutenção Eletroeletrônica pelo SENAI-SP
 
@@ -15,10 +19,9 @@ O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramenta
 
 <br>
 
-## Core Stack & Ecosystem
-<img align="right" src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/master/assets/images/cat.gif" width="110" alt="Animação">
+<h2 align="center">Core Stack & Ecosystem</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
@@ -29,10 +32,20 @@ O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramenta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
-<br clear="right"/>
+<img align="right" src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/master/assets/images/cat.gif" width="110" alt="Animação">
+
+<br clear="right">
 <br>
 
 ## Strategic Roadmap
+
 * **Especialização em Dados & IA:** Conclusão das trilhas de Engenharia de Dados e Engenharia de Agentes de IA pela Alura para o desenvolvimento de pipelines otimizados.
 * **Validação de Competências:** Conquista das certificações AWS Cloud Practitioner e Microsoft Azure Fundamentos (AZ-900) para validar o conhecimento em arquitetura baseada em nuvem.
 * **Consistência e Prática:** Construção de um portfólio prático estruturado focado no tratamento de dados reais, versionamento sistemático e engenharia reversa de processos obsoletos.
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do EnukNogueira">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Idiomas do EnukNogueira">
+</div>
