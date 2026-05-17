@@ -47,15 +47,5 @@ Sempre em busca de evolução e novos conhecimentos.
 * **Validação de Competências:** Conquista das certificações AWS Cloud Practitioner e Microsoft Azure Fundamentos (AZ-900) para validar o conhecimento em arquitetura baseada em nuvem.
 * **Consistência e Prática:** Construção de um portfólio prático estruturado focado no tratamento de dados reais, versionamento sistemático e engenharia reversa de processos obsoletos.
 
-## Metrics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=dark" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
-## GitHub Progress Snake
-
-<p align="center">
-  <picture>
