@@ -5,15 +5,13 @@
 ## About Me
 ---
 * Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR
-* Ex-Eletricista de Manutenção Eletroeletrônica (SENAI-SP)
+* Formação Técnica em Manutenção Eletroeletrônica pelo SENAI-SP
 
-Sou graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e estou em transição da área técnica industrial para o ecossistema de Dados e Inteligência Artificial.
+Desenvolvo soluções com foco em Engenharia de Dados, Inteligência Artificial e Desenvolvimento Backend. Minha transição da área técnica industrial para o ecossistema de software baseia-se na aplicação prática de competências analíticas complexas.
 
-Minha base tecnológica foi consolidada no SENAI-SP, onde me formei como Eletricista de Manutenção Eletroeletrônica. Essa bagagem me proporcionou disciplina operacional e um olhar analítico para sistemas complexos e infraestrutura — competências que agora aplico no desenvolvimento de software inteligente e escalável.
+A bagagem adquirida na manutenção eletroeletrônica industrial me proporcionou um domínio sólido sobre lógica estruturada, diagnóstico de falhas em tempo real e resiliência operacional diante de falhas críticas. Hoje, traduzo essa experiência técnica em infraestrutura para a construção de linhas de processamento de dados (pipelines), automações inteligentes e códigos limpos em ambientes de backend.
 
-Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de consolidar minha inserção definitiva no mercado de TI até o final de 2026.
-
-Sempre em busca de evolução e novos conhecimentos.
+O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramentas modernas de processamento de dados e nuvem, consolidando projetos escaláveis de ponta a ponta.
 
 ## Tech Stack
 ---
@@ -32,11 +30,8 @@ Sempre em busca de evolução e novos conhecimentos.
 
 <br clear="right"/>
 
-## Current Focus
+## Core Objectives
 ---
-* Evoluir na trilha de Engenharia de Dados e IA para desenvolver projetos que não apenas automatizem, mas tragam inteligência estratégica para o núcleo dos negócios.
-* Realizar as Carreiras Engenharia de Dados e Engenharia de Agentes de IA da Alura
-* Conquistar o certificado de AWS (Amazon Web Services)
-* Conquistar o certificado de Azure (Microsoft)
-* Evolução dos meus projetos/estudos ao longo do ano
-* Constancia no GitHub.
+* **Especialização em Dados & IA:** Conclusão das trilhas de Engenharia de Dados e Engenharia de Agentes de IA pela Alura para o desenvolvimento de pipelines otimizados.
+* **Validação de Competências:** Conquista das certificações AWS Cloud Practitioner e Microsoft Azure Fundamentos (AZ-900) para validar o conhecimento em arquitetura baseada em nuvem.
+* **Consistência e Prática:** Construção de um portfólio prático estruturado focado no tratamento de dados reais, versionamento sistemático e engenharia reversa de processos obsoletos.
