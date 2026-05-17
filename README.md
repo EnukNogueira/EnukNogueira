@@ -6,14 +6,6 @@ Minha base tecnológica foi consolidada no **SENAI-SP**, onde me formei como **E
 
 Atualmente, dedico-me integralmente ao aprimoramento técnico, com o objetivo de consolidar minha inserção definitiva no mercado de TI até o final de 2026.
 
-### GitHub Metrics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### No que atuo:
 * **Inteligência Artificial:** Desenvolvimento de modelos preditivos e integração de modelos de linguagem (LLMs) utilizando **Python**.
 * **Engenharia de Dados:** Arquitetura de bancos de dados **SQL** e pipelines de dados com **Pandas** e **NumPy**.
