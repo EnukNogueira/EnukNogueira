@@ -27,11 +27,11 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 ### Monitor Automatizado de Ingestão de Dados Financeiros
 - Pipeline em Python desenvolvido para o consumo assíncrono de APIs de cotação de moedas em tempo real. A ferramenta realiza a extração, tratamento e normalização dos dados do mercado financeiro para análises comparativas estruturadas.
-- Repositório Técnico: https://github.com/EnukNogueira/projeto_cotacao
+- Repositório Técnico: https://github.com/EnukNogueira/currency-data-pipeline
 
 ### Gerenciador e Integrador de Dados de Leitura Profissional
 - Aplicação em Python voltada para a organização de fluxos de dados de plataformas literárias. Foco na estruturação de dados não formatados, lógica de algoritmos internos e manipulação dinâmica de coleções de dados.
-- Repositório Técnico: https://github.com/EnukNogueira/projeto_skoob_pucpr
+- Repositório Técnico: https://github.com/EnukNogueira/skoob-data-integrator
 
 ## Contato Profissional
 
