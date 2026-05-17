@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://enuknoqueira.github.io/" target="_blank">
+  <a href="https://enuknogueira.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Site%20Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
   </a>
 </div>
