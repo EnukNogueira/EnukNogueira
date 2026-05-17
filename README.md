@@ -1,29 +1,35 @@
-# Enuk Nogueira
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Software+Engineering+;Backend+Development+;Data+%26+Automation+;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
+</div>
 
-Desenvolvedor Backend especializado em Engenharia de Dados e Soluções de Inteligência Artificial. Com sólido background em automação eletroeletrônica industrial, aplico lógica estruturada rigorosa, diagnóstico de falhas em tempo real e arquitetura de sistemas resilientes para construir pipelines de dados eficientes e aplicações backend escaláveis.
+## Sobre
+
+Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e formado em Manutenção Eletroeletrônica pelo SENAI-SP. 
+
+Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações inteligentes. Minha trajetória profissional no setor industrial consolidou uma sólida base em lógica estruturada, diagnóstico de falhas complexas em tempo real e resiliência operacional. Traduzo essa bagagem de infraestrutura crítica diretamente para a construção de softwares tolerantes a falhas, pipelines eficientes e código limpo.
 
 ## Competências Técnicas
 
-### Desenvolvimento Backend & Engenharia de Software
-- Java: Programação Orientada a Objetos (POO), estruturas de dados e tratamento de exceções.
-- Python: Automação de processos, desenvolvimento de scripts e manipulação de dados.
-- Arquitetura: Clean Code, versionamento estruturado com Git e tratamento de logs.
+### Engenharia de Software & Backend
+- Java: Programação Orientada a Objetos, gerenciamento de dados e tratamento de exceções.
+- Python: Desenvolvimento de scripts automatizados, rotinas de tratamento de dados e testes unitários.
+- Boas Práticas: Clean Code, versionamento estruturado com Git e arquitetura modular.
 
-### Engenharia de Dados & IA
-- Bancos de Dados: Modelagem relacional e manipulação de dados com SQL.
-- Inteligência Artificial: Desenvolvimento de automações inteligentes e integração de APIs de LLMs.
+### Engenharia de Dados & Infraestrutura
+- Bancos de Dados: Modelagem relacional, escrita de queries otimizadas e manipulação de dados com SQL.
+- Automação: Integração de APIs, consumo de Web Services e processamento assíncrono de dados.
 
-## Projetos de Destaque
+## Projetos em Destaque
 
 ### Sistema de Gerenciamento de Estoque Corporativo
-- Link: https://github.com/EnukNogueira/seu-repositorio-java
-- Impacto Técnico: Backend robusto desenvolvido em Java utilizando conceitos avançados de Orientação a Objetos para garantir a manutenibilidade do código. Implementação de tratamento centralizado de erros e regras de negócio complexas para controle de inventário.
+- Solução backend desenvolvida em Java aplicando conceitos avançados de Orientação a Objetos para garantir modularidade e manutenibilidade. Conta com tratamento centralizado de exceções e persistência estruturada.
+- Linha de Código: https://github.com/EnukNogueira/seu-repositorio-java
 
-### Automatizador Inteligente de Consultas e Cotações
-- Link: https://github.com/EnukNogueira/seu-repositorio-python
-- Impacto Técnico: Pipeline construído em Python focado na extração automatizada de dados operacionais e financeiros em tempo real. Integração com APIs externas e estruturação de dados não formatados para consumo analítico imediato.
+### Automatizador de Consultas e Pipelines de Dados
+- Script robusto em Python projetado para a extração automática, parsing e estruturação de dados financeiros em tempo real via consumo de APIs externas, garantindo consistência e armazenamento limpo.
+- Linha de Código: https://github.com/EnukNogueira/seu-repositorio-python
 
-## Contato e Conexões
+## Contato Profissional
 
-- LinkedIn: https://www.linkedin.com/in/enuk-nogueira
-- E-mail: enuk.alves@outlook.com
+- LinkedIn: https://www.linkedin.com/in/enuknogueira/
+- E-mail: enuk.santos@gmail.com
