@@ -45,8 +45,6 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 ### 📚 [Gerenciador e Integrador de Dados de Leitura Profissional](https://github.com/EnukNogueira/skoob-data-integrator)
 - Aplicação em Python voltada para a organização de fluxos de dados de plataformas literárias. Foco na estruturação de dados não formatados, lógica de algoritmos internos e manipulação dinâmica de coleções de dados.
 
----
-
 ## Contato Profissional
 
 <div align="center">
