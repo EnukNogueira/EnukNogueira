@@ -35,4 +35,17 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 ## Projetos em Destaque
 
 ### 📦 [Sistema de Controle de Estoque e Insumos Industriais](https://github.com/EnukNogueira/inventory-management-system)
-- Solução backend em Java projetada para otimizar o gerenciamento de
+- Solução backend em Java projetada para otimizar o gerenciamento de inventário em setores de manutenção. Aplica conceitos avançados de Orientação a Objetos para garantir baixo acoplamento, alta coesão e tratamento centralizado de erros.
+
+### ⚙️ [Monitor Automatizado de Ingestão de Dados Financeiros](https://github.com/EnukNogueira/currency-data-pipeline)
+- Pipeline em Python desenvolvido para o consumo assíncrono de APIs de cotação de moedas em tempo real. A ferramenta realiza a extração, tratamento e normalização dos dados do mercado financeiro para análises comparativas estruturadas.
+
+### 📚 [Gerenciador e Integrador de Dados de Leitura Profissional](https://github.com/EnukNogueira/skoob-data-integrator)
+- Aplicação em Python voltada para a organização de fluxos de dados de plataformas literárias. Foco na estruturação de dados não formatados, lógica de algoritmos internos e manipulação dinâmica de coleções de dados.
+
+---
+
+## Contato Profissional
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enuknogueira/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enuk.santos@gmail.com)
