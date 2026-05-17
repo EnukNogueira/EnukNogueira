@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/type=waving&color=331A00&secondaryColor=A67C52&height=120&section=header" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=331A00&secondaryColor=A67C52&height=120&section=header" width="100%" alt="Header Banner" />
+<br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+GitHub!" alt="Welcome Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+GitHub!" alt="Título Animado">
 </h1>
 
 <h3 align="center">My GitHub Contribution Grid Snake</h3>
@@ -21,7 +22,7 @@
 
 Desenvolvo soluções com foco em Engenharia de Dados, Inteligência Artificial e Desenvolvimento Backend. Minha transição da área técnica industrial para o ecossistema de software baseia-se na aplicação prática de competências analíticas complexas.
 
-A bagagem adquirida na manutenção eletroeletrônica industrial me proporcionou um domínio sólido sobre lógica estruturada, diagnóstico de falhas em tempo real e resiliência operacional diante de falhas críticas. Hoje, traduzo essa experiência técnica em infraestrutura para a construção de linhas de processamento de dados (pipelines), automações inteligentes e códigos limpos em ambientes de backend.
+A bagagem adquirida na manutenção eletroeletrônica industrial me proporcionou um domínio sólido sobre lógica estruturada, diagnóstico de falhas em tempo real e resiliência operacional diante de falhas críticas. Hoje, traduzo essa experiênca técnica em infraestrutura para a construção de linhas de processamento de dados (pipelines), automações inteligentes e códigos limpos em ambientes de backend.
 
 O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramentas modernas de processamento de dados e nuvem, consolidando projetos escaláveis de ponta a ponta.
 
