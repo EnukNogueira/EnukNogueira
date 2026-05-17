@@ -23,7 +23,7 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 ### Sistema de Controle de Estoque e Insumos Industriais
 - Solução backend em Java projetada para otimizar o gerenciamento de inventário em setores de manutenção. Aplica conceitos avançados de Orientação a Objetos para garantir baixo acoplamento, alta coesão e tratamento centralizado de erros.
-- Repositório Técnico: https://github.com/EnukNogueira/estoque-java
+- Repositório Técnico: https://github.com/EnukNogueira/inventory-management-system
 
 ### Monitor Automatizado de Ingestão de Dados Financeiros
 - Pipeline em Python desenvolvido para o consumo assíncrono de APIs de cotação de moedas em tempo real. A ferramenta realiza a extração, tratamento e normalização dos dados do mercado financeiro para análises comparativas estruturadas.
