@@ -43,11 +43,10 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 - Aplicação em Python voltada para a organização de fluxos de dados de plataformas literárias. Foco na estruturação de dados não formatados, lógica de algoritmos internos e manipulação dinâmica de coleções de dados.
 
 ---
-
 <div align="center">
   <h2>Estatísticas do GitHub</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 ---
