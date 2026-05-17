@@ -10,24 +10,28 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 ## Competências Técnicas
 
-### Engenharia de Software & Backend
-- Java: Programação Orientada a Objetos, gerenciamento de dados e tratamento de exceções.
-- Python: Desenvolvimento de scripts automatizados, rotinas de tratamento de dados e testes unitários.
-- Boas Práticas: Clean Code, versionamento estruturado com Git e arquitetura modular.
+### Desenvolvimento Backend & Engenharia de Software
+- Java: Programação Orientada a Objetos (POO), tratamento de exceções, estruturas de dados e modularidade.
+- Python: Desenvolvimento de scripts utilitários, automação de processos de negócios e manipulação de dados.
+- Práticas de Engenharia: Código limpo (Clean Code), versionamento estruturado com Git e testes básicos.
 
-### Engenharia de Dados & Infraestrutura
-- Bancos de Dados: Modelagem relacional, escrita de queries otimizadas e manipulação de dados com SQL.
-- Automação: Integração de APIs, consumo de Web Services e processamento assíncrono de dados.
-
+### Engenharia de Dados & Integrações
+- Bancos de Dados: Modelagem relacional, estruturação de dados e escrita de consultas com SQL.
+- APIs e Ingestão: Consumo de APIs RESTful, parsing de estruturas JSON/XML e automação de fluxos de dados.
+  
 ## Projetos em Destaque
 
-### Sistema de Gerenciamento de Estoque Corporativo
-- Solução backend desenvolvida em Java aplicando conceitos avançados de Orientação a Objetos para garantir modularidade e manutenibilidade. Conta com tratamento centralizado de exceções e persistência estruturada.
-- Linha de Código: https://github.com/EnukNogueira/seu-repositorio-java
+### Sistema de Controle de Estoque e Insumos Industriais
+- Solução backend em Java projetada para otimizar o gerenciamento de inventário em setores de manutenção. Aplica conceitos avançados de Orientação a Objetos para garantir baixo acoplamento, alta coesão e tratamento centralizado de erros.
+- Repositório Técnico: https://github.com/EnukNogueira/estoque-java
 
-### Automatizador de Consultas e Pipelines de Dados
-- Script robusto em Python projetado para a extração automática, parsing e estruturação de dados financeiros em tempo real via consumo de APIs externas, garantindo consistência e armazenamento limpo.
-- Linha de Código: https://github.com/EnukNogueira/seu-repositorio-python
+### Monitor Automatizado de Ingestão de Dados Financeiros
+- Pipeline em Python desenvolvido para o consumo assíncrono de APIs de cotação de moedas em tempo real. A ferramenta realiza a extração, tratamento e normalização dos dados do mercado financeiro para análises comparativas estruturadas.
+- Repositório Técnico: https://github.com/EnukNogueira/projeto_cotacao
+
+### Gerenciador e Integrador de Dados de Leitura Profissional
+- Aplicação em Python voltada para a organização de fluxos de dados de plataformas literárias. Foco na estruturação de dados não formatados, lógica de algoritmos internos e manipulação dinâmica de coleções de dados.
+- Repositório Técnico: https://github.com/EnukNogueira/projeto_skoob_pucpr
 
 ## Contato Profissional
 
