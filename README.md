@@ -26,9 +26,9 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 </div>
 
 ### Engenharia de Software & Backend
-- **Paradigma OO:** Domínio de Programação Orientada a Objetos em Java, tratamento centralizado de exceções, estruturas de dados e modularidade.
+- **Paradigma OO:** Domínio de Programação Orientada a Objetos em Java e Python, tratamento centralizado de exceções, estruturas de dados e modularidade.
 - **Automação:** Desenvolvimento de scripts em Python voltados para automação de processos de negócios e manipulação de arquivos.
-- **Padrões de Código:** Aplicação prática de Código Limpo (Clean Code) e controle de versionamento semântico com Git/GitHub.
+- **Padrões de Código:** Aplicação prática de Código Limpo e controle de versionamento semântico com Git/GitHub.
 
 ### Engenharia de Dados & Integrações
 - **Bancos de Dados:** Modelagem relacional, normalização de tabelas e escrita de queries complexas com SQL.
