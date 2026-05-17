@@ -2,14 +2,14 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=typing&content=Bem+vindo+ao+meu+GitHub&size=26&color=dcdcdc&height=70&width=600&font=CourierNew" alt="Título Animado">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=3500&pause=1000&color=F3F3F3&center=true&vCenter=true&width=600&height=60&lines=Bem+vindo+ao+meu+GitHub" alt="Bem vindo ao meu GitHub">
 </p>
 <br>
 
-## Technical Profile
+### Technical Profile
 
 * Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR
-* Formação Técnica em Manutenção Eletroeletrônica pelo SENAI-SP
+* Formação Técnico em Manutenção Eletroeletrônica pelo SENAI-SP
 
 Desenvolvo soluções com foco em Engenharia de Dados, Inteligência Artificial e Desenvolvimento Backend. Minha transição da área técnica industrial para o ecossistema de software baseia-se na aplicação prática de competências analíticas complexas.
 
@@ -19,17 +19,24 @@ O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramenta
 
 <br>
 
-<h2 align="center">Core Stack & Ecosystem</h2>
+<p align="center"><strong><font size="4">Core Stack & Ecosystem</font></strong></p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/master/assets/images/cat.gif" width="110" alt="Animação">
@@ -37,7 +44,7 @@ O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramenta
 <br clear="right">
 <br>
 
-## Strategic Roadmap
+### Strategic Roadmap
 
 * **Especialização em Dados & IA:** Conclusão das trilhas de Engenharia de Dados e Engenharia de Agentes de IA pela Alura para o desenvolvimento de pipelines otimizados.
 * **Validação de Competências:** Conquista das certificações AWS Cloud Practitioner e Microsoft Azure Fundamentos (AZ-900) para validar o conhecimento em arquitetura baseada em nuvem.
@@ -45,7 +52,8 @@ O objetivo estratégico para este ano é o aprofundamento rigoroso em ferramenta
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do EnukNogueira">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Idiomas do EnukNogueira">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
+</p>
