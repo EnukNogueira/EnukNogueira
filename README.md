@@ -14,7 +14,7 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e formado em Manutenção Eletroeletrônica pelo SENAI-SP. 
 
-Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações inteligentes. Minha trajetória profissional no setor industrial consolidou uma sólida base em lógica estruturada, diagnóstico de falhas complexas in tempo real e resiliência operacional. Traduzo essa bagagem de infraestrutura crítica diretamente para a construção de softwares tolerantes a falhas, pipelines eficientes e código limpo.
+Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações inteligentes. Minha trajetória profissional no setor industrial consolidou uma sólida base em lógica estruturada, diagnóstico de falhas complexas em tempo real e resiliência operacional. Traduzo essa bagagem de infraestrutura crítica diretamente para a construção de softwares tolerantes a falhas, pipelines eficientes e código limpo.
 
 ## Competências Técnicas
 
