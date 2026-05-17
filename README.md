@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/type=waving&color=0d1117&secondaryColor=8b5a2b&height=120&section=header" width="100%" alt="Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%" alt="Banner">
 
 <h1 align="center">Welcome to my GitHub!</h1>
 
@@ -30,7 +30,9 @@ Sempre em busca de evolução e novos conhecimentos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
-<br clear="right"/> ## Current Focus
+<br clear="right"/>
+
+## Current Focus
 ---
 * Evoluir na trilha de Engenharia de Dados e IA para desenvolver projetos que não apenas automatizem, mas tragam inteligência estratégica para o núcleo dos negócios.
 * Realizar as Carreiras Engenharia de Dados e Engenharia de Agentes de IA da Alura
