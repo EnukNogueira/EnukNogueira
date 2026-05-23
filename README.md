@@ -31,7 +31,7 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 - **Padrões de Código:** Aplicação prática de Código Limpo e controle de versionamento semântico com Git/GitHub.
 
 ### Engenharia de Dados & Integrações
-- **Bancos de Dados:** Modelagem relacional, normalização de tabelas e escrita de queries complexas com SQL.
+- **Bancos de Dados:** Modelagem relacional, normalização de tabelas e escrita de queries complexas com SQL, Pandas e Numpy.
 - **Pipelines & APIs:** Consumo assíncrono de APIs RESTful, tratamento de payloads estruturados (JSON/XML) e arquitetura de fluxos de ingestão.
 
 ## Projetos em Destaque
