@@ -1,64 +1,46 @@
-<svg width="700" height="110" viewBox="0 0 700 110" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600&amp;display=swap');
-
-      text { font-family: 'Source Code Pro', 'Courier New', monospace; }
-
-      .line1-text {
-        font-size: 20px;
-        font-weight: 600;
-        fill: #36BCF7;
-        animation: type1 10s steps(32, end) infinite;
+      @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&amp;display=swap');
+      text {
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        text-anchor: middle;
       }
-      .line2-text {
-        font-size: 20px;
-        font-weight: 600;
-        fill: #36BCF7;
-        animation: type2 10s steps(30, end) infinite;
-      }
+      .code { font-size: 24px; font-weight: 700; fill: #E05252; }
 
+      .line1 { animation: type1 9s linear infinite; }
       @keyframes type1 {
-        0%, 5%   { clip-path: inset(0 100% 0 0); opacity: 1; }
-        40%, 48% { clip-path: inset(0 0% 0 0);   opacity: 1; }
-        52%      { clip-path: inset(0 0% 0 0);   opacity: 0; }
-        53%,100% { clip-path: inset(0 100% 0 0); opacity: 0; }
+        0%        { clip-path: inset(0 100% 0 0); opacity: 1; }
+        2%        { clip-path: inset(0 95% 0 0);  opacity: 1; }
+        38%       { clip-path: inset(0 0% 0 0);   opacity: 1; }
+        46%       { clip-path: inset(0 0% 0 0);   opacity: 1; }
+        50%       { opacity: 0; }
+        51%, 100% { clip-path: inset(0 100% 0 0); opacity: 0; }
       }
+
+      .line2 { animation: type2 9s linear infinite; }
       @keyframes type2 {
-        0%, 48%  { clip-path: inset(0 100% 0 0); opacity: 0; }
-        52%      { clip-path: inset(0 100% 0 0); opacity: 1; }
-        85%, 95% { clip-path: inset(0 0% 0 0);   opacity: 1; }
-        99%      { clip-path: inset(0 0% 0 0);   opacity: 0; }
-        100%     { clip-path: inset(0 100% 0 0); opacity: 0; }
+        0%, 50%   { clip-path: inset(0 100% 0 0); opacity: 0; }
+        52%       { clip-path: inset(0 100% 0 0); opacity: 1; }
+        54%       { clip-path: inset(0 95% 0 0);  opacity: 1; }
+        88%       { clip-path: inset(0 0% 0 0);   opacity: 1; }
+        96%       { clip-path: inset(0 0% 0 0);   opacity: 1; }
+        100%      { opacity: 0; }
       }
 
       .cursor {
-        font-size: 20px;
-        font-weight: 400;
-        fill: #36BCF7;
-        animation: blink 0.75s step-end infinite;
+        font-size: 24px;
+        fill: #E05252;
+        text-anchor: middle;
+        animation: blink 0.8s step-end infinite;
       }
-      @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50%      { opacity: 0; }
-      }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
     </style>
   </defs>
 
-  <rect width="700" height="110" fill="none"/>
+  <rect width="700" height="90" fill="none"/>
 
-  <!-- Linha 1 -->
-  <text x="14" y="42" font-size="20" font-weight="600" fill="#27C93F">➜</text>
-  <text x="42" y="42" font-size="20" font-weight="400" fill="#FFBD2E">~/dev/enuk</text>
-  <text x="168" y="42" font-size="20" font-weight="400" fill="#555">  $  </text>
-  <text class="line1-text" x="212" y="42">print("Engenheiro de Dados")</text>
-
-  <!-- Linha 2 -->
-  <text x="14" y="82" font-size="20" font-weight="600" fill="#27C93F">➜</text>
-  <text x="42" y="82" font-size="20" font-weight="400" fill="#FFBD2E">~/dev/enuk</text>
-  <text x="168" y="82" font-size="20" font-weight="400" fill="#555">  $  </text>
-  <text class="line2-text" x="212" y="82">Python | SQL | Data Pipelines</text>
-
-  <!-- cursor -->
-  <text class="cursor" x="212" y="82">_</text>
+  <text class="code line1" x="350" y="38">print("Engenheiro de Dados")</text>
+  <text class="code line2" x="350" y="72">Python  |  SQL  |  Pipelines</text>
+  <text class="cursor"     x="490" y="72">_</text>
 </svg>
