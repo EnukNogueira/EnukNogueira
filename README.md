@@ -2,7 +2,7 @@
 
 <!-- TÍTULO ANIMADO — arquivo assets/typing-title.svg no repositório -->
 <p align="center">
-  <img src="assets/typing-title.svg" alt="Typing Animation" />
+  <img src="typing-title.svg" alt="Typing Animation" />
 </p>
 
 <p align="center">
