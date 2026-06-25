@@ -7,15 +7,15 @@
 
 <p align="center">
   <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-36BCF7?style=for-the-badge&logo=githubpages&logoColor=0D1117" height="30" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
   </a>
   &nbsp;
   <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositórios-238636?style=for-the-badge&logo=github&logoColor=white" height="30" alt="Repositórios" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
