@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-E05252?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio" />
   </a>
   &nbsp;
   <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
