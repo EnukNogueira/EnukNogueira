@@ -51,7 +51,7 @@ Dados de clientes, comportamento de compra e evasão — tudo junto num único p
 Um dataset bruto de jogos da Steam, cheio de inconsistências e valores ausentes. Separei o processo em dois notebooks distintos: o primeiro dedicado à limpeza e engenharia de atributos, gerando um CSV curado como artefato reutilizável. O segundo, exclusivamente para análise — distribuição de preços, ranking de publishers e market share das grandes distribuidoras, com visualizações construídas em Matplotlib. Aprendi que pipeline de dados não é só código, é disciplina de processo.
 
 ### 🔋 [NASA Battery — Análise de Degradação](https://github.com/EnukNogueira/nasa-battery)
-Dataset real do NASA Prognostics Center of Excellence (PCoE) — um benchmark usado em pesquisas de manutenção preditiva. Apliquei limpeza, padronização e análise exploratória sobre ciclos de carga e descarga de baterias Li-Ion 18650, mapeando a curva de degradação de capacidade ao longo do tempo. Próximo passo: modelagem preditiva de vida útil (RUL) com Machine Learning.
+Dataset real do NASA Prognostics Center of Excellence (PCoE) — um benchmark usado em pesquisas de manutenção preditiva. Apliquei limpeza, padronização e análise exploratória sobre ciclos de carga e descarga de baterias Li-Ion 18650, mapeando a curva de degradação de capacidade ao longo do tempo. Em evolução contínua — próxima etapa: modelagem preditiva de vida útil (RUL).
 
 ---
 
