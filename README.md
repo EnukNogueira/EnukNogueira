@@ -6,7 +6,17 @@
 </p>
 
 <p align="center">
-  <img src="buttons.svg" alt="Portfólio | Repositórios | LinkedIn" />
+  <a href="https://enuknogueira.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-E05252?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" />
+  </a>
 </p>
 
 ---
@@ -51,7 +61,7 @@ Dados de clientes, comportamento de compra e evasão — tudo junto num único p
 Um dataset bruto de jogos da Steam, cheio de inconsistências e valores ausentes. Separei o processo em dois notebooks distintos: o primeiro dedicado à limpeza e engenharia de atributos, gerando um CSV curado como artefato reutilizável. O segundo, exclusivamente para análise — distribuição de preços, ranking de publishers e market share das grandes distribuidoras, com visualizações construídas em Matplotlib. Aprendi que pipeline de dados não é só código, é disciplina de processo.
 
 ### 🔋 [NASA Battery — Análise de Degradação](https://github.com/EnukNogueira/nasa-battery)
-Dataset real do NASA Prognostics Center of Excellence (PCoE) — um benchmark usado em pesquisas de manutenção preditiva. Apliquei limpeza, padronização e análise exploratória sobre ciclos de carga e descarga de baterias Li-Ion 18650, mapeando a curva de degradação de capacidade ao longo do tempo. Em evolução contínua — próxima etapa: modelagem preditiva de vida útil (RUL).
+Dataset real do NASA Prognostics Center of Excellence (PCoE) — um benchmark usado em pesquisas de manutenção preditiva. Apliquei limpeza, padronização e análise exploratória sobre ciclos de carga e descarga de baterias Li-Ion 18650, mapeando a curva de degradação de capacidade ao longo do tempo. Próximo passo: modelagem preditiva de vida útil (RUL) com Machine Learning.
 
 ---
 
@@ -93,5 +103,6 @@ Atualmente aberto a novas oportunidades profissionais. Se a sua empresa busca um
 <p align="center">Obrigado por visitar.</p>
 
 ![](assets/Bottom_down.svg)
+
 
 
