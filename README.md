@@ -38,13 +38,12 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 ## ⭐ Projetos em Destaque
 
 ### ⚙️ [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
-Motor assíncrono estruturado para processamento, consumo e modelagem de dados do ecossistema financeiro. O foco principal reside na consolidação de arquiteturas backend robustas, tratamento seguro de payloads estruturados e otimização de fluxos analíticos complexos em tempo real.
+Um sistema financeiro construído em Java do zero, com regras de negócio reais para financiamento imobiliário — casa, apartamento e terreno, cada um com seu próprio cálculo via polimorfismo. Além do módulo de financiamento, integrei um painel de investimentos com cotações de ações em tempo real via API externa, conversão de JSON com Gson e projeção de patrimônio em renda fixa com juros compostos. A exceção customizada ErrosExceptionFinanciamento trava regras críticas de negócio na entrada de dados. Foi o projeto onde Orientação a Objetos deixou de ser conceito e virou arquitetura.
 
 ### 📦 [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
-Infraestrutura de dados voltada para o ambiente de e-commerce. O projeto gerencia o fluxo ponta a ponta (ingestão, transformação e armazenamento) de transações, estruturando dados brutos em schemas relacionais limpos, prontos para otimização de inventário e inteligência de negócios.
-
+Quis simular o ambiente de dados de empresas como Nubank e Mercado Livre — onde os dados chegam fragmentados, sujos e sem contexto. Trabalhei com duas fontes separadas, uni via merge, construí máscaras booleanas para segmentação de churn e usei np.select() para feature engineering vetorizado. O README documenta não só o que funcionou, mas os erros que cometi e como os resolvi — porque aprendi que entender o erro é mais valioso do que acertar de primeira.
 ### 📊 [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
-Repositório dedicado à engenharia reversa e análise exploratória do catálogo da plataforma Steam. Implementa rotinas de extração, limpeza de strings e manipulação dinâmica com Pandas e NumPy para decodificar comportamentos de mercado, volumes de jogadores e estatísticas de engajamento.
+Dados brutos raramente chegam prontos para contar uma história. Neste projeto, peguei um dataset da Steam com milhares de jogos e separei o processo em duas etapas distintas: primeiro, um notebook dedicado exclusivamente à limpeza — tratamento de valores ausentes, criação de KPIs como Total_de_Vendas e geração de um dataset curado. Só então passei para a análise. Com Pandas e Matplotlib, construí visualizações estratégicas sobre distribuição de preços, ranking de publishers e market share das grandes distribuidoras. Aprendi que a qualidade de qualquer análise começa muito antes do primeiro gráfico.
 
 ---
 
