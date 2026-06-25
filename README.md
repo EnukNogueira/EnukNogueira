@@ -1,17 +1,15 @@
-![](assets/Bottom_up.svg)
+![](assets/Bottom_down.svg)
 
-<!-- Título Dinâmico Otimizado (Fonte Fira Code + Cor Vermelha + Tempo Ajustado) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Backend+Development;Data+%26+Automation;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
 </p>
 
-<!-- Botões Arredondados e Elegantes (Style: For-The-Badge) -->
 <p align="center">
   <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
   </a>
   <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus Repositórios" />
+    <img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus Repositorios" />
   </a>
   <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +18,7 @@
 
 ---
 
-## 👤 Sobre
+## Sobre
 
 Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e formado em Manutenção Eletroeletrônica pelo SENAI-SP. 
 
@@ -28,7 +26,7 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 ---
 
-## 🛠️ Competências Técnicas
+## Competências Técnicas
 
 | Categoria | Tecnologias e Ferramentas |
 |---|---|
@@ -38,53 +36,61 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 | **Bancos de Dados** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=java&logoColor=white) |
 | **Infraestrutura & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 
-### 🎯 Frentes de Atuação
+### Frentes de Atuação
 * **Engenharia de Software:** Domínio de Programação Orientada a Objetos em Java e Python, tratamento centralizado de exceções, estruturas de dados e código limpo.
 * **Engenharia de Dados:** Modelagem relacional, normalização de tabelas, escrita de queries complexas e consumo assíncrono de APIs RESTful com tratamento de payloads JSON/XML.
 * **Automação:** Scripts focados na otimização de processos de negócios, rotinas de ingestão e manipulação dinâmica de arquivos.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### ⚙️ [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
+### [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
 Motor assíncrono estruturado para processamento, consumo e modelagem de dados do ecossistema financeiro. O foco principal reside na consolidação de arquiteturas backend robustas, tratamento seguro de payloads estruturados e otimização de fluxos analíticos complexos em tempo real.
 
-### 📦 [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
+### [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
 Infraestrutura de dados voltada para o ambiente de e-commerce. O projeto gerencia o fluxo ponta a ponta (ingestão, transformação e armazenamento) de transações, estruturando dados brutos em schemas relacionais limpos, prontos para otimização de inventário e inteligência de negócios.
 
-### 📊 [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
+### [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
 Repositório dedicado à engenharia reversa e análise exploratória do catálogo da plataforma Steam. Implementa rotinas de extração, limpeza de strings e manipulação dinâmica com Pandas e NumPy para decodificar comportamentos de mercado, volumes de jogadores e estatísticas de engajamento.
 
 ---
 
-## 📈 Estatísticas e Atividades
+## Estatísticas e Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnukNogueira&theme=github-dark" alt="Gráfico de Atividade" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnukNogueira&theme=github-dark" alt="Grafico de Atividade" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=radical&include_all_commits=true" alt="Github Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&theme=radical&layout=compact" alt="Top Languages" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnukNogueira&theme=radical" alt="GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=radical&include_all_commits=true" alt="Github Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&theme=radical&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnukNogueira&theme=radical" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Contato Profissional
+## Contato Profissional
 
-<p align="center">
-  <a href="mailto:enuk.santos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+| Canal de Comunicação | Link de Acesso |
+|---|---|
+| **E-mail Corporativo** | [enuk.santos@gmail.com](mailto:enuk.santos@gmail.com) |
+| **LinkedIn Profissional** | [linkedin.com/in/enuknogueira](https://www.linkedin.com/in/enuknogueira/) |
+| **Web Portfólio** | [enuknogueira.github.io](https://enuknogueira.github.io/) |
 
+<br>
 <p align="center">
-  Obrigado por visitar! 😊
+  Obrigado por visitar!
 </p>
 
 ![](assets/Bottom_down.svg)
