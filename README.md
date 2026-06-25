@@ -1,22 +1,18 @@
 ![](assets/Bottom_up.svg)
 
-<!-- Animação Typing SVG com Fonte Fira Code (Estilo Jupyter/PyCharm) e cor Vermelha -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=EF4444&center=true&vCenter=true&width=750&height=60&size=22&lines=Olá,+eu+sou+Enuk+Nogueira;Backend+Developer+%7C+Python+%7C+Java+%7C+SQL;Focado+em+Engenharia+de+Dados+e+IA;Eletricista+Industrial+→+Desenvolvedor" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Backend+Development;Data+%26+Automation;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
 </p>
 
-<!-- Botões de Ação Principais Alinhados e Uniformes -->
 <p align="center">
   <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-%23EF4444.svg?style=flat-square&logo=rocket&logoColor=white" alt="Site Portfolio" />
+    <img src="https://img.shields.io/badge/Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
   </a>
   <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositórios-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="Meus Repositórios" />
+    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus Repositórios" />
   </a>
   <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -81,7 +77,7 @@ Repositório dedicado à engenharia reversa e análise exploratória do catálog
 
 <p align="center">
   <a href="mailto:enuk.santos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
