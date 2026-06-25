@@ -1,9 +1,11 @@
 ![](assets/Bottom_up.svg)
 
+<!-- Título Dinâmico Otimizado (Fonte Fira Code + Cor Vermelha + Tempo Ajustado) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Backend+Development;Data+%26+Automation;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
 </p>
 
+<!-- Botões Arredondados e Elegantes (Style: For-The-Badge) -->
 <p align="center">
   <a href="https://enuknogueira.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
