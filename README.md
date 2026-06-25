@@ -17,7 +17,11 @@
   </a>
 </p>
 
+<!-- Botões de Destaque Iniciais -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://enuknogueira.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Site%20Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
   </a>
@@ -66,7 +70,7 @@ Aplicação em Python voltada para a organização de fluxos de dados de platafo
 ## 📈 Estatísticas e Atividades
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EnukNogueira/EnukNogueira/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnukNogueira&theme=github-dark" alt="Gráfico de Atividade" width="100%" />
 </p>
 
 <p align="center">
@@ -84,7 +88,7 @@ Aplicação em Python voltada para a organização de fluxos de dados de platafo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:enuk.santos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
