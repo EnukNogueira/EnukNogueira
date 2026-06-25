@@ -1,11 +1,22 @@
 ![](assets/Bottom_up.svg)
 
+<!-- TÍTULO ANIMADO — arquivo assets/typing-title.svg no repositório -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Backend+Development;Data+%26+Automation;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
+  <img src="assets/typing-title.svg" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://enuknogueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23EF4444?style=flat&logo=rocket&logoColor=white" height="28" alt="Portfolio" /></a><a href="https://github.com/EnukNogueira?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositorios-%23181717?style=flat&logo=github&logoColor=white" height="28" alt="Meus Repositorios" style="margin: 0 10px;" /></a><a href="https://www.linkedin.com/in/enuknogueira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="https://enuknogueira.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfólio-0D1117?style=for-the-badge&logoColor=36BCF7&color=36BCF7" height="32" alt="Portfólio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white&color=238636" height="32" alt="Repositórios" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="32" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -29,21 +40,28 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 | **Infraestrutura & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 
 ### Frentes de Atuação
-* **Engenharia de Software:** Domínio de Programação Orientada a Objetos em Java e Python, tratamento centralizado de exceções, estruturas de dados e código limpo.
-* **Engenharia de Dados:** Modelagem relacional, normalização de tabelas, escrita de queries complexas e consumo assíncrono de APIs RESTful com tratamento de payloads JSON/XML.
-* **Automação:** Scripts focados na otimização de processos de negócios, rotinas de ingestão e manipulação dinâmica de arquivos.
+
+**Engenharia de Software:** Domínio de Programação Orientada a Objetos em Java e Python, tratamento centralizado de exceções, estruturas de dados e código limpo.
+
+**Engenharia de Dados:** Modelagem relacional, normalização de tabelas, escrita de queries complexas e consumo assíncrono de APIs RESTful com tratamento de payloads JSON/XML.
+
+**Automação:** Scripts focados na otimização de processos de negócios, rotinas de ingestão e manipulação dinâmica de arquivos.
 
 ---
 
 ## ⭐ Projetos em Destaque
 
 ### ⚙️ [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
-Um sistema financeiro construído em Java do zero, com regras de negócio reais para financiamento imobiliário — casa, apartamento e terreno, cada um com seu próprio cálculo via polimorfismo. Além do módulo de financiamento, integrei um painel de investimentos com cotações de ações em tempo real via API externa, conversão de JSON com Gson e projeção de patrimônio em renda fixa com juros compostos. A exceção customizada ErrosExceptionFinanciamento trava regras críticas de negócio na entrada de dados. Foi o projeto onde Orientação a Objetos deixou de ser conceito e virou arquitetura.
+Um sistema financeiro construído em Java do zero, com regras de negócio reais para financiamento imobiliário — casa, apartamento e terreno, cada um com seu próprio cálculo via polimorfismo. Além do módulo de financiamento, integrei um painel de investimentos com cotações de ações em tempo real via API externa, conversão de JSON com Gson e projeção de patrimônio em renda fixa com juros compostos. A exceção customizada `ErrosExceptionFinanciamento` trava regras críticas de negócio na entrada de dados. Foi o projeto onde Orientação a Objetos deixou de ser conceito e virou arquitetura.
 
 ### 📦 [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
-Dados de clientes, comportamento de compra e evasão — tudo junto num único pipeline de análise. Trabalhei com consolidação de fontes separadas via merge, segmentação de risco com máscaras booleanas, agrupamentos multinível com groupby e criação de atributos classificatórios com np.select() — vetorizado, sem loops. Cada escolha técnica teve um motivo: entender não só quem estava saindo, mas por quê, e entregar isso de forma que um time de CRM pudesse usar.
+Dados de clientes, comportamento de compra e evasão — tudo junto num único pipeline de análise. Trabalhei com consolidação de fontes separadas via merge, segmentação de risco com máscaras booleanas, agrupamentos multinível com groupby e criação de atributos classificatórios com `np.select()` — vetorizado, sem loops. Cada escolha técnica teve um motivo: entender não só quem estava saindo, mas por quê, e entregar isso de forma que um time de CRM pudesse usar.
+
 ### 📊 [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
 Um dataset bruto de jogos da Steam, cheio de inconsistências e valores ausentes. Separei o processo em dois notebooks distintos: o primeiro dedicado à limpeza e engenharia de atributos, gerando um CSV curado como artefato reutilizável. O segundo, exclusivamente para análise — distribuição de preços, ranking de publishers e market share das grandes distribuidoras, com visualizações construídas em Matplotlib. Aprendi que pipeline de dados não é só código, é disciplina de processo.
+
+### 🔋 [NASA Battery — Análise de Degradação](https://github.com/EnukNogueira/nasa-battery)
+Dataset real do NASA Prognostics Center of Excellence (PCoE) — um benchmark usado em pesquisas de manutenção preditiva. Apliquei limpeza, padronização e análise exploratória sobre ciclos de carga e descarga de baterias Li-Ion 18650, mapeando a curva de degradação de capacidade ao longo do tempo. Próximo passo: modelagem preditiva de vida útil (RUL) com Machine Learning.
 
 ---
 
@@ -76,14 +94,13 @@ Um dataset bruto de jogos da Steam, cheio de inconsistências e valores ausentes
 Atualmente aberto a novas oportunidades profissionais. Se a sua empresa busca um desenvolvedor com forte base analítica, focado na construção de arquiteturas backend e pipelines de dados estruturados, entre em contato diretamente pelo canal abaixo:
 
 <p align="center">
-  <a href="mailto:enuk.santos@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/E--mail%20Corporativo-enuk.santos%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="30" alt="Email" />
+  <a href="mailto:enuk.santos@gmail.com">
+    <img src="https://img.shields.io/badge/enuk.santos@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" height="32" alt="Email" />
   </a>
 </p>
 
 <br>
-<p align="center">
-  Obrigado por visitar.
-</p>
+<p align="center">Obrigado por visitar.</p>
 
 ![](assets/Bottom_down.svg)
+
