@@ -1,18 +1,18 @@
-![](assets/Bottom_down.svg)
+![](assets/Bottom_up.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Backend+Development;Data+%26+Automation;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
+  <a href="https://enuknogueira.github.io/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23EF4444?style=flat&logo=rocket&logoColor=white" height="28" alt="Portfolio" />
   </a>
-  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus Repositorios" />
+  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Repositorios-%23181717?style=flat&logo=github&logoColor=white" height="28" alt="Meus Repositorios" />
   </a>
-  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
 </p>
 
@@ -82,11 +82,13 @@ Repositório dedicado à engenharia reversa e análise exploratória do catálog
 
 ## Contato Profissional
 
-| Canal de Comunicação | Link de Acesso |
-|---|---|
-| **E-mail Corporativo** | [enuk.santos@gmail.com](mailto:enuk.santos@gmail.com) |
-| **LinkedIn Profissional** | [linkedin.com/in/enuknogueira](https://www.linkedin.com/in/enuknogueira/) |
-| **Web Portfólio** | [enuknogueira.github.io](https://enuknogueira.github.io/) |
+Para oportunidades de colaboração, desenvolvimento de projetos ou conexões técnicas, envie uma mensagem diretamente para o canal abaixo:
+
+<p align="center">
+  <a href="mailto:enuk.santos@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/E--mail%20Corporativo-enuk.santos%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="30" alt="Email" />
+  </a>
+</p>
 
 <br>
 <p align="center">
