@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://enuknogueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23EF4444?style=flat&logo=rocket&logoColor=white" height="28" alt="Portfolio" /></a><a href="https://github.com/EnukNogueira?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositorios-%23181717?style=flat&logo=github&logoColor=white" height="28" alt="Meus Repositorios" style="margin: 0 10px;" /></a><a href="https://www.linkedin.com/in/enuknogueira/" target="_blank"><img src="https://img.shields.io/badge/--%230077B5?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="https://enuknogueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23EF4444?style=flat&logo=rocket&logoColor=white" height="28" alt="Portfolio" /></a><a href="https://github.com/EnukNogueira?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositorios-%23181717?style=flat&logo=github&logoColor=white" height="28" alt="Meus Repositorios" style="margin: 0 10px;" /></a><a href="https://www.linkedin.com/in/enuknogueira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Para oportunidades de colaboração, desenvolvimento de projetos ou conexões t�
 
 <br>
 <p align="center">
-  Obrigado por visitar!
+  Obrigado por visitar.
 </p>
 
 ![](assets/Bottom_down.svg)
