@@ -1,24 +1,22 @@
 ![](assets/Bottom_up.svg)
 
-<!-- Animação Typing SVG (Título Alterado para Vermelho) -->
+<!-- Animação Typing SVG com Fonte Fira Code (Estilo Jupyter/PyCharm) e cor Vermelha -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23EF4444&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Enuk+Nogueira;Backend+Developer+%7C+Python+%7C+Java+%7C+SQL;Focado+em+Engenharia+de+Dados+e+IA;Eletricista+Industrial+→+Desenvolvedor;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=EF4444&center=true&vCenter=true&width=750&height=60&size=22&lines=Olá,+eu+sou+Enuk+Nogueira;Backend+Developer+%7C+Python+%7C+Java+%7C+SQL;Focado+em+Engenharia+de+Dados+e+IA;Eletricista+Industrial+→+Desenvolvedor" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Ícone do LinkedIn flutuando à direita -->
-<a href="https://www.linkedin.com/in/enuknogueira/" target="blank">
-  <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Enuk" height="30" width="40" />
-</a>
-
-<!-- Botões de Destaque Iniciais Atualizados -->
+<!-- Botões de Ação Principais Alinhados e Uniformes -->
 <p align="center">
-  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus Repositórios" />
-  </a>
   <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Site%20Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
+    <img src="https://img.shields.io/badge/Portfólio-%23EF4444.svg?style=flat-square&logo=rocket&logoColor=white" alt="Site Portfolio" />
+  </a>
+  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositórios-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="Meus Repositórios" />
+  </a>
+  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -40,7 +38,7 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![Gson](https://img.shields.io/badge/-Gson-4285F4?style=flat&logo=google&logoColor=white) |
 | **Dados & Análise** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 | **Bancos de Dados** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=java&logoColor=white) |
-| **Infraestrutura & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&omega;logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+| **Infraestrutura & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 
 ### 🎯 Frentes de Atuação
 * **Engenharia de Software:** Domínio de Programação Orientada a Objetos em Java e Python, tratamento centralizado de exceções, estruturas de dados e código limpo.
@@ -83,7 +81,7 @@ Repositório dedicado à engenharia reversa e análise exploratória do catálog
 
 <p align="center">
   <a href="mailto:enuk.santos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
