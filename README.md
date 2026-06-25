@@ -17,11 +17,12 @@
   </a>
 </p>
 
-<!-- Botões de Destaque Iniciais -->
+<!-- Ícone do LinkedIn flutuando à direita, conforme o primeiro modelo -->
+<a href="https://www.linkedin.com/in/enuknogueira/" target="blank">
+  <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Enuk" height="30" width="40" />
+</a>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://enuknogueira.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Site%20Portfólio-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Site Portfolio" />
   </a>
@@ -41,7 +42,7 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 | Categoria | Tecnologias e Ferramentas |
 |---|---|
-| **Linguagens & IDEs** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| **Linguagens & IDEs** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) Bradley ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![Gson](https://img.shields.io/badge/-Gson-4285F4?style=flat&logo=google&logoColor=white) |
 | **Dados & Análise** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 | **Bancos de Dados** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=java&logoColor=white) |
@@ -56,14 +57,14 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 ## 🚀 Projetos em Destaque
 
-### 📦 [Sistema de Controle de Estoque e Insumos Industriais](https://github.com/EnukNogueira/inventory-management-system)
-Solução backend em Java projetada para otimizar o gerenciamento de inventário em setores de manutenção. Aplica conceitos avançados de Orientação a Objetos para garantir baixo acoplamento, alta coesão e tratamento centralizado de erros.
+### ⚙️ [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
+Motor assíncrono estruturado para processamento, consumo e modelagem de dados do ecossistema financeiro. O foco principal reside na consolidação de arquiteturas backend robustas, tratamento seguro de payloads estruturados e otimização de fluxos analíticos complexos em tempo real.
 
-### ⚙️ [Monitor Automatizado de Ingestão de Dados Financeiros](https://github.com/EnukNogueira/currency-data-pipeline)
-Pipeline em Python desenvolvido para o consumo assíncrono de APIs de cotação de moedas em tempo real. A ferramenta realiza a extração, tratamento e normalização dos dados do mercado financeiro para análises comparativas estruturadas.
+### 📦 [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
+Infraestrutura de dados voltada para o ambiente de e-commerce. O projeto gerencia o fluxo ponta a ponta (ingestão, transformação e armazenamento) de transações, estruturando dados brutos em schemas relacionais limpos, prontos para otimização de inventário e inteligência de negócios.
 
-### 📚 [Gerenciador e Integrador de Dados de Leitura Profissional](https://github.com/EnukNogueira/skoob-data-integrator)
-Aplicação em Python voltada para a organização de fluxos de dados de plataformas literárias. Foco na estruturação de dados não formatados, lógica de algoritmos internos e manipulação dinâmica de coleções de dados.
+### 📊 [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
+Repositório dedicado à engenharia reversa e análise exploratória do catálogo da plataforma Steam. Implementa rotinas de extração, limpeza de strings e manipulação dinâmica com Pandas e NumPy para decodificar comportamentos de mercado, volumes de jogadores e estatísticas de engajamento.
 
 ---
 
@@ -87,9 +88,6 @@ Aplicação em Python voltada para a organização de fluxos de dados de platafo
 ## 📬 Contato Profissional
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:enuk.santos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
