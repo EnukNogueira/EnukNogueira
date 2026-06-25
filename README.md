@@ -74,7 +74,7 @@ Repositório dedicado à engenharia reversa e análise exploratória do catálog
 
 ## Contato Profissional
 
-Para oportunidades de colaboração, desenvolvimento de projetos ou conexões técnicas, envie uma mensagem diretamente para o canal abaixo:
+Atualmente aberto a novas oportunidades profissionais. Se a sua empresa busca um desenvolvedor com forte base analítica, focado na construção de arquiteturas backend e pipelines de dados estruturados, entre em contato diretamente pelo canal abaixo:
 
 <p align="center">
   <a href="mailto:enuk.santos@gmail.com" style="text-decoration: none;">
