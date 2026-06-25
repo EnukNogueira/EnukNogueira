@@ -1,21 +1,21 @@
 ![](assets/Bottom_up.svg)
 
-<!-- TÍTULO ANIMADO — arquivo assets/typing-title.svg no repositório -->
+<!-- TÍTULO ANIMADO — arquivo typing-title.svg no repositório -->
 <p align="center">
   <img src="typing-title.svg" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Portfólio-0D1117?style=for-the-badge&logoColor=36BCF7&color=36BCF7" height="32" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-36BCF7?style=for-the-badge&logo=githubpages&logoColor=0D1117" height="30" alt="Portfólio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white&color=238636" height="32" alt="Repositórios" />
+    <img src="https://img.shields.io/badge/Repositórios-238636?style=for-the-badge&logo=github&logoColor=white" height="30" alt="Repositórios" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
 </p>
 
@@ -103,4 +103,5 @@ Atualmente aberto a novas oportunidades profissionais. Se a sua empresa busca um
 <p align="center">Obrigado por visitar.</p>
 
 ![](assets/Bottom_down.svg)
+
 
