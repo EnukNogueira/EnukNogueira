@@ -37,13 +37,13 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 ## Projetos em Destaque
 
-### [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
+### ⚙️ [Omni Finance Engine](https://github.com/EnukNogueira/omni-finance-engine)
 Motor assíncrono estruturado para processamento, consumo e modelagem de dados do ecossistema financeiro. O foco principal reside na consolidação de arquiteturas backend robustas, tratamento seguro de payloads estruturados e otimização de fluxos analíticos complexos em tempo real.
 
-### [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
+### 📦 [Ecommerce Data Pipeline](https://github.com/EnukNogueira/ecommerce-data)
 Infraestrutura de dados voltada para o ambiente de e-commerce. O projeto gerencia o fluxo ponta a ponta (ingestão, transformação e armazenamento) de transações, estruturando dados brutos em schemas relacionais limpos, prontos para otimização de inventário e inteligência de negócios.
 
-### [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
+### 📊 [Análise de Dados Steam](https://github.com/EnukNogueira/analise-steam)
 Repositório dedicado à engenharia reversa e análise exploratória do catálogo da plataforma Steam. Implementa rotinas de extração, limpeza de strings e manipulação dinâmica com Pandas e NumPy para decodificar comportamentos de mercado, volumes de jogadores e estatísticas de engajamento.
 
 ---
