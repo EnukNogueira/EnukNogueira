@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Analise+de+Dados+;Data+%26+Automation+;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Enuk+Nogueira+;Data+%26+Automation+;Java+%7C+Python+%7C+SQL" alt="Typing Animation" />
 </div>
 
 <p align="center">
