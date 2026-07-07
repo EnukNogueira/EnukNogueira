@@ -61,22 +61,6 @@ Dataset real do NASA Prognostics Center of Excellence (PCoE) — um benchmark us
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnukNogueira&theme=github-dark" alt="Grafico de Atividade" width="100%" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=EnukNogueira&show_icons=true&theme=radical&include_all_commits=true" alt="Github Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnukNogueira&theme=radical&layout=compact" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnukNogueira&theme=radical" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Contato Profissional
