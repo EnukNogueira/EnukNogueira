@@ -13,9 +13,7 @@
 
 ## Sobre
 
-Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e formado em Manutenção Eletroeletrônica pelo SENAI-SP.
-
-Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações inteligentes, com foco em Java e Python. Minha trajetória profissional no setor industrial consolidou uma base sólida em lógica estruturada, diagnóstico de falhas complexas e resiliência operacional. Traduzo essa bagagem de infraestrutura crítica na construção de softwares tolerantes a falhas, extração e limpeza de dados (ETL) e escrita de código limpo, sempre priorizando a integridade e a escalabilidade dos fluxos de informação. Atualmente, foco na integração de sistemas financeiros e análise estratégica de dados.
+Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e formado em Manutenção Eletroeletrônica pelo SENAI-SP. Atuo na transformação de dados brutos em inteligência de negócio, construindo pipelines de análise, modelos preditivos de Machine Learning e visualizações estratégicas. Minha trajetória profissional no setor industrial consolidou uma base sólida em lógica estruturada, diagnóstico sistemático de falhas e análise rigorosa de padrões. Traduzo essa bagagem de resolução de problemas complexos para o ecossistema de dados: realizando limpeza e engenharia de atributos (ETL), exploração estatística (EDA), modelagem matemática e geração de insights para tomada de decisão. Atualmente, foco na aplicação de algoritmos de classificação e regressão, análise de séries temporais e criação de dashboards em Power BI.
 
 ---
 
@@ -23,19 +21,21 @@ Atuo no desenvolvimento de sistemas backend, pipelines de dados e automações i
 
 | Categoria | Tecnologias e Ferramentas |
 |---|---|
-| **Linguagens & IDEs** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![Gson](https://img.shields.io/badge/-Gson-4285F4?style=flat&logo=google&logoColor=white) |
-| **Dados & Análise** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| **Bancos de Dados** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=java&logoColor=white) |
+| **Linguagens & IDEs** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) |
+| **Dados & Analytics** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
+| **Machine Learning & Stat** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Estatística](https://img.shields.io/badge/-Estat%C3%ADstica%20Aplicada-00599C?style=flat) ![Regressão & Classificação](https://img.shields.io/badge/-Regress%C3%A3o%20%26%20Classifica%C3%A7%C3%A3o-412991?style=flat) |
+| **Bancos de Dados & APIs** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 | **Infraestrutura & Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+
+---
 
 ### Frentes de Atuação
 
-**Engenharia de Software:** Domínio de Programação Orientada a Objetos em Java e Python, tratamento centralizado de exceções, estruturas de dados e código limpo.
+**Análise Exploratória & Business Intelligence (EDA):** Identificação de padrões, criação de KPIs estratégicos, tratamento de dados complexos e construção de dashboards interativos no Power BI para tomada de decisão baseada em dados.
 
-**Engenharia de Dados:** Modelagem relacional, normalização de tabelas, escrita de queries complexas e consumo assíncrono de APIs RESTful com tratamento de payloads JSON/XML.
+**Machine Learning & Modelagem Preditiva:** Desenvolvimento de pipelines com Scikit-Learn para problemas de classificação, regressão e séries temporais, aplicando engenharia de atributos e validação de métricas de avaliação ($RMSE$, $MAE$, $F1\text{-Score}$).
 
-**Automação:** Scripts focados na otimização de processos de negócios, rotinas de ingestão e manipulação dinâmica de arquivos.
+**Engenharia de Dados & SQL:** Tratamento e estruturação de dados (ETL), escrita de consultas SQL complexas, modelagem relacional e consumo/integração de APIs para manipulação de fluxos de dados.
 
 ---
 
