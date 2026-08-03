@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR e formado em Manutenção Eletroeletrônica pelo SENAI-SP. Atuo na transformação de dados brutos em inteligência de negócio, construindo pipelines de análise, modelos preditivos de Machine Learning e visualizações estratégicas. Minha trajetória profissional no setor industrial consolidou uma base sólida em lógica estruturada, diagnóstico sistemático de falhas e análise rigorosa de padrões. Traduzo essa bagagem de resolução de problemas complexos para o ecossistema de dados: realizando limpeza e engenharia de atributos (ETL), exploração estatística (EDA), modelagem matemática e geração de insights para tomada de decisão. Atualmente, foco na aplicação de algoritmos de classificação e regressão, análise de séries temporais e criação de dashboards em Power BI.
+Graduando em Análise e Desenvolvimento de Sistemas pela PUCPR, com formação técnica em Manutenção Eletroeletrônica pelo SENAI-SP e experiência profissional no setor industrial. Atualmente foco meus estudos em Análise de Dados, Business Intelligence e Machine Learning, utilizando Python, SQL, Pandas, Scikit-learn e Power BI para transformar dados em análises e insights. Minha experiência industrial desenvolveu uma forte base em resolução estruturada de problemas, análise de padrões e diagnóstico de falhas.
 
 ---
 
