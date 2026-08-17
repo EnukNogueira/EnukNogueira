@@ -85,16 +85,6 @@ Sistema financeiro desenvolvido em Java para praticar orientação a objetos, re
 
 ---
 
-### 📦 Ecommerce Data
-
-Projeto de análise de dados de clientes e comportamento de compra, trabalhando com tratamento, integração e segmentação de dados.
-
-**Tecnologias:** Python · Pandas · NumPy
-
-🔗 [Ver projeto](https://github.com/EnukNogueira/ecommerce-data)
-
----
-
 ## Estudos
 
 Mantenho um repositório separado para organizar meus estudos, exercícios, anotações e projetos.
