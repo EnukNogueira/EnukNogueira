@@ -57,7 +57,7 @@ O projeto envolve tratamento de dados, análise exploratória e aplicação de m
 
 **Tecnologias:** Python · Pandas · Scikit-learn · Machine Learning
 
-🔗 [Ver projeto](https://github.com/EnukNogueira/nasa-battery)
+🖱️ [Ver projeto](https://github.com/EnukNogueira/nasa-battery)
 
 ---
 
@@ -71,7 +71,7 @@ Atualmente estou revisando as análises e desenvolvendo um dashboard no Power BI
 
 **Tecnologias:** Python · Pandas · Matplotlib · Power BI
 
-🔗 [Ver projeto](https://github.com/EnukNogueira/analise-steam)
+🖱️ [Ver projeto](https://github.com/EnukNogueira/analise-steam)
 
 ---
 
@@ -81,7 +81,7 @@ Sistema financeiro desenvolvido em Java para praticar orientação a objetos, re
 
 **Tecnologias:** Java · POO · JSON · APIs
 
-🔗 [Ver projeto](https://github.com/EnukNogueira/omni-finance-engine)
+🖱️ [Ver projeto](https://github.com/EnukNogueira/omni-finance-engine)
 
 ---
 
@@ -104,7 +104,7 @@ Atualmente meus estudos estão concentrados em:
 - [x] Aprofundamento em Estatística
 - [ ] Machine Learning avançado
 
-🔗 [Meus estudos](https://github.com/EnukNogueira/meus-estudos-tecnologia)
+🖱️ [Meus estudos](https://github.com/EnukNogueira/meus-estudos-tecnologia)
 
 ---
 
