@@ -18,7 +18,7 @@
 
 ## Sobre
 
-Estudante de Análise e Desenvolvimento de Sistemas pela PUCPR, atualmente direcionando minha formação para **Análise de Dados e Ciência de Dados**.
+Estudante de Big Data e Inteligência Analítica, atualmente direcionando minha formação para **Análise de Dados e Ciência de Dados**.
 
 Tenho trabalhado principalmente com Python, SQL, Pandas, Scikit-learn e Power BI, desenvolvendo projetos práticos de análise, visualização e Machine Learning.
 
