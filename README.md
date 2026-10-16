@@ -98,6 +98,7 @@ Atualmente meus estudos estão concentrados em:
 - [x] Scikit-learn
 - [x] Excel
 - [x] Power BI
+- [x] Power Automate
 - [ ] XGBoost
 - [ ] Dash
 - [ ] AWS
