@@ -1,20 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Enuk+Nogueira;Data+Science+%26+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Enuk+Nogueira;Data+Science+%26+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning"
+    alt="Enuk Nogueira - Data Science & Analytics"
+  />
 </div>
 
 <p align="center">
-  <a href="https://enuknogueira.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-E05252?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio" height="36" />
+  <a href="https://enuknogueira.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-E05252?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/EnukNogueira?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/REPOSITÓRIOS-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" height="36" />
+  <a href="https://github.com/EnukNogueira?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <a href="https://www.linkedin.com/in/enuknogueira/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
+  <a href="https://www.linkedin.com/in/enuknogueira/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
+```
 
 ## Sobre
 
