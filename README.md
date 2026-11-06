@@ -21,7 +21,7 @@
 
 ## Sobre
 
-Estudante de Big Data e Inteligência Analítica, atualmente direcionando minha formação para **Análise de Dados e Ciência de Dados**.
+Estudante de Big Data e Inteligência Analítica, direcionando minha formação para Análise de Dados e Ciência de Dados.
 
 Tenho trabalhado principalmente com Python, SQL, Pandas, Scikit-learn e Power BI, desenvolvendo projetos práticos de análise, visualização de dados e Machine Learning.
 
@@ -33,20 +33,17 @@ Meu objetivo é transformar os conhecimentos adquiridos nos estudos em projetos 
 
 | Área | Tecnologias |
 |---|---|
-| **Programação** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Análise de Dados** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| **BI & Visualização** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
-| **Machine Learning** | ![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| **APIs & Desenvolvimento** | ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) |
+| Programação | Python, SQL, Java |
+| Análise de Dados | Pandas, NumPy, Matplotlib, Jupyter |
+| BI e Visualização | Power BI, Excel |
+| Machine Learning | Scikit-learn |
+| Banco de Dados | PostgreSQL, SQLite |
+| APIs e Desenvolvimento | REST API, FastAPI |
+| Ferramentas | Git, GitHub, VS Code, IntelliJ |
 
 ### Estudando / Próximos passos
 
-![XGBoost](https://img.shields.io/badge/-XGBoost-189FDD?style=flat&logo=xgboost&logoColor=white)
-![Dash](https://img.shields.io/badge/-Dash-119DFF?style=flat&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+XGBoost · Dash · Plotly · AWS
 
 ---
 
@@ -60,7 +57,7 @@ O projeto envolve tratamento de dados, análise exploratória e aplicação de m
 
 **Tecnologias:** Python · Pandas · Scikit-learn · Machine Learning
 
-🖱️ [Ver projeto](https://github.com/EnukNogueira/nasa-battery)
+[Ver projeto](https://github.com/EnukNogueira/nasa-battery)
 
 ---
 
@@ -74,7 +71,7 @@ Atualmente estou revisando as análises e desenvolvendo um dashboard no Power BI
 
 **Tecnologias:** Python · Pandas · Matplotlib · Power BI
 
-🖱️ [Ver projeto](https://github.com/EnukNogueira/analise-steam)
+[Ver projeto](https://github.com/EnukNogueira/analise-steam)
 
 ---
 
@@ -84,7 +81,7 @@ Sistema financeiro desenvolvido em Java para praticar orientação a objetos, re
 
 **Tecnologias:** Java · POO · JSON · APIs
 
-🖱️ [Ver projeto](https://github.com/EnukNogueira/omni-finance-engine)
+[Ver projeto](https://github.com/EnukNogueira/omni-finance-engine)
 
 ---
 
@@ -108,7 +105,7 @@ Atualmente meus estudos estão concentrados em:
 - [x] Aprofundamento em Estatística
 - [ ] Machine Learning avançado
 
-🖱️ [Meus estudos](https://github.com/EnukNogueira/meus-estudos-tecnologia)
+[Meus estudos](https://github.com/EnukNogueira/meus-estudos-tecnologia)
 
 ---
 
@@ -116,7 +113,6 @@ Atualmente meus estudos estão concentrados em:
 
 Minha prioridade atual é continuar desenvolvendo projetos completos e aprofundar meus conhecimentos em Ciência de Dados.
 
-```text
 Power BI
    ↓
 Finalizar projeto Steam
@@ -132,5 +128,3 @@ Estudar Dash
 NASA Battery em Dash
    ↓
 Cloud / AWS
-```
-
