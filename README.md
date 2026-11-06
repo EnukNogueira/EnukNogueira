@@ -23,9 +23,9 @@
 
 Estudante de Big Data e Inteligência Analítica, atualmente direcionando minha formação para **Análise de Dados e Ciência de Dados**.
 
-Tenho trabalhado principalmente com Python, SQL, Pandas, Scikit-learn e Power BI, desenvolvendo projetos práticos de análise, visualização e Machine Learning.
+Tenho trabalhado principalmente com Python, SQL, Pandas, Scikit-learn e Power BI, desenvolvendo projetos práticos de análise, visualização de dados e Machine Learning.
 
-Meu objetivo é transformar os conhecimentos dos estudos em projetos completos, documentando desde o tratamento dos dados até os resultados e conclusões.
+Meu objetivo é transformar os conhecimentos adquiridos nos estudos em projetos completos, documentando cada etapa, desde o tratamento dos dados até os resultados e conclusões.
 
 ---
 
@@ -41,7 +41,7 @@ Meu objetivo é transformar os conhecimentos dos estudos em projetos completos, 
 | **APIs & Desenvolvimento** | ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) |
 
-### Estudando / próximos passos
+### Estudando / Próximos passos
 
 ![XGBoost](https://img.shields.io/badge/-XGBoost-189FDD?style=flat&logo=xgboost&logoColor=white)
 ![Dash](https://img.shields.io/badge/-Dash-119DFF?style=flat&logo=plotly&logoColor=white)
@@ -68,7 +68,7 @@ O projeto envolve tratamento de dados, análise exploratória e aplicação de m
 
 Projeto de análise de dados utilizando um dataset de jogos da Steam.
 
-O projeto começou com o tratamento e limpeza dos dados e evoluiu para análises sobre preços, avaliações, gêneros e publishers.
+O projeto começou com o tratamento e a limpeza dos dados e evoluiu para análises sobre preços, avaliações, gêneros e publishers.
 
 Atualmente estou revisando as análises e desenvolvendo um dashboard no Power BI.
 
@@ -132,5 +132,5 @@ Estudar Dash
 NASA Battery em Dash
    ↓
 Cloud / AWS
-
+```
 
